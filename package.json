@@ -1,0 +1,19 @@
+{
+  "name": "Mohammed-RESTAPI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Mohammed Vazhanthodi",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "git": "^0.1.5",
+    "mongoose": "^6.2.2",
+    "nodemon": "^2.0.15"
+  }
+}
